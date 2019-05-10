@@ -1,0 +1,5 @@
+checkpoint
+model.*
+tflearn_logs/
+venv/
+training_data
